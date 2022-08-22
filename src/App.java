@@ -32,7 +32,7 @@ public class App {
             }
         }
 
-        System.out.println("Para este vetor foram feitos: " + count + " testes.");
+        System.out.println("Para este número eu fiz: " + count + " testes.");
         if (findIt == true) {
             System.out.println("Achei! :)");
         } else {
